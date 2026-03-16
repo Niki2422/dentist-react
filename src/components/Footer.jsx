@@ -7,7 +7,7 @@ return(
 <footer className="footer">
 
 <p>
-DentistReact - Dra Marta Fernandez
+DentistReact - Dr Mario Fernandez
 </p>
 
 <p>

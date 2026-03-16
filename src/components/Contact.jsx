@@ -9,7 +9,7 @@ return(
 <h2>Contacto</h2>
 
 <p>Tel: 2914433116</p>
-<p>Email: Martafernandez@gmail.com</p>
+<p>Email: Mariofernandez@gmail.com</p>
 <p>Dirección: Salta 233 Bahia Blanca</p>
 <p>Horario: Lun a Vie 9:00 - 16:00</p>
 
