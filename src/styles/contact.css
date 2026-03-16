@@ -1,0 +1,19 @@
+.contact{
+padding:80px 20px;
+background:#F8FAFC;
+text-align:center;
+}
+
+.contact-btn{
+display:inline-block;
+margin-top:20px;
+background:#2EA3F2;
+color:white;
+padding:15px 25px;
+border-radius:8px;
+text-decoration:none;
+}
+
+.contact-btn:hover{
+background:#1c7cc0;
+}
