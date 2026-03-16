@@ -11,7 +11,7 @@ return(
 <h1>Sonríe con confianza</h1>
 
 <p>
-Atención odontológica profesional con la Dra. Marta Fernandez
+Atención odontológica profesional con el Dr Mario Fernandez
 </p>
 
 <a href="#contact" className="hero-btn">
